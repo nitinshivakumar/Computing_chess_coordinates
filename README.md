@@ -1,4 +1,4 @@
-# Geometry
+# Computing the Chess Coordinates
 This repository contains the following files and directories:
 
 * __pycache__: Cache directory for Python bytecode files.
