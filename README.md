@@ -17,14 +17,14 @@ This repository contains the following files and directories:
 * task2.py: Python script for task 2.
 * UB_Geometry.py: Python module for geometry calculations related to the University at Buffalo (UB).
 
-** Usage **
+## Usage
 
 * Use task1.py and task2.py for specific tasks within the project.
 * Refer to helper.py for reusable functions.
 * Run pack_submission.sh to pack submissions for distribution or evaluation.
 * Install Python dependencies using pip install -r requirements.txt or with Pipenv using pipenv install.
 
-** Notes **
+## Notes
 
 * Ensure Python 3.8 is installed and the environment is set up correctly.
 * Modify the files as needed for your project requirements.
