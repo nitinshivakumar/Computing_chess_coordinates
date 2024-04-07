@@ -26,5 +26,5 @@ This repository contains the following files and directories:
 
 ** Notes **
 
-Ensure Python 3.8 is installed and the environment is set up correctly.
-Modify the files as needed for your project requirements.
+* Ensure Python 3.8 is installed and the environment is set up correctly.
+* Modify the files as needed for your project requirements.
