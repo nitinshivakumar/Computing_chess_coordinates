@@ -22,7 +22,7 @@ This repository contains the following files and directories:
 * Use task1.py and task2.py for specific tasks within the project.
 * Refer to helper.py for reusable functions.
 * Run pack_submission.sh to pack submissions for distribution or evaluation.
-* Install Python dependencies using pip install -r requirements.txt or with Pipenv using pipenv install.
+* Install Python dependencies using `pip install -r requirements.txt` or with Pipenv using pipenv install.
 
 ## Notes
 
