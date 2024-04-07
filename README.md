@@ -10,6 +10,6 @@
 
 ### Implementation Notes:
 - Use OpenCV version 4.5.4 for this project.
-- All code should be implemented in the "UB Geometry.py" file without modifying other files.
+- Code is being implemented in the "UB Geometry.py" file without modifying other files.
 - Ensure correct output formats for "result task1.json" and "result task2.json".
 
