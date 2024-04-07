@@ -1,4 +1,4 @@
-# Camera Calibration and 
+# Camera Calibration 
 
 ### Preliminary:
 1. Define the projection matrix M and solve for intrinsic parameters (fx, fy, ox, oy) and extrinsic parameters (R, T) from world coordinates to image coordinates.
